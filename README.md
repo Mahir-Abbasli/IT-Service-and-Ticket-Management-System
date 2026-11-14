@@ -294,13 +294,12 @@ IT-Service-Ticket-Management-System/
 │
 ├── api-testing/
 │   ├── IT Service Request Management API.postman_collection.json
-│   └── postman-api-test-results.png
+│   └── postman-api-test-result.png
 │
 ├── documentation/
 │   └── IT-Service-Ticket-Management-System-Business-Analysis-Report.pdf
 │
 ├── jira/
-│   ├── jira-epic-and-user-stories.png
 │   └── jira-kanban-board.png
 │
 ├── process-models/
@@ -310,7 +309,6 @@ IT-Service-Ticket-Management-System/
 │
 ├── requirements/
 │   ├── IT-Service-Request-Management-BRD.pdf
-│   └── Project_Working_Notes.md
 │
 └── user-stories/
     └── User-Stories-and-Acceptance-Criteria.pdf
